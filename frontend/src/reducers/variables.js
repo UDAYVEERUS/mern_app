@@ -1,9 +1,6 @@
 import { CHANGE_VARIABLE } from "../actions/type"
 const INITIAL_STATE = {
     items_array:null,
-    test:"this is str",
-    notification:"",
-    notification_flag:false,
     message:"",
 }
 
